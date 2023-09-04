@@ -29,3 +29,9 @@ Download your [DOSBox Frontend](https://www.dosbox.com/download.php?main=1), dow
 *Screenshot of game play of MAMBAS*
 
 ![Screenshot of MAMBAS](images/MAMBAS.png)
+
+*Screenshot of Borland Turbo C++*
+
+![Screenshot of Borland Turbo C++](images/BorlandTurboCPP.png)
+
+
