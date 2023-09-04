@@ -1,4 +1,4 @@
-# MAMBA remake 1997
+# My personal MAMBA remake (1997)
 
 When I was 17 years old, I made my own implementation on MS-DOS of one of my favorite games, [Mamba](https://nl.wikipedia.org/wiki/Mamba_(spel)) (made by Bert Uffen). Mamba is a snake-like video game with over [200](https://www.mobygames.com/group/3173/snake-variants/sort:date/page:1/) different variants. I used Turbo C++ from Borland for coding, compiling and building the game.
 
