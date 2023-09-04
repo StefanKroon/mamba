@@ -1,6 +1,6 @@
 # My personal MAMBA remake (1997)
 
-When I was 17 years old, I made my own implementation on MS-DOS of one of my favorite games, [Mamba](https://nl.wikipedia.org/wiki/Mamba_(spel)) (made by Bert Uffen). Mamba is a snake-like video game with over [200](https://www.mobygames.com/group/3173/snake-variants/sort:date/page:1/) different variants. I used Turbo C++ from Borland for coding, compiling and building the game.
+When I was 17 years old, I made my own implementation on MS-DOS of one of my favorite games, [Mamba](https://nl.wikipedia.org/wiki/Mamba_(spel)) (made by Bert Uffen). Mamba is a snake-like video game. I used Borland Turbo C++ (version 3.0) for coding (IDE) and compiling the game.
 
 I found the game on a old hard disk with file timestamps still preserved. I have been creating two variants of the game. The first one is an as-close-as-possible copy, called MAMBAS. It was finished in June 1997. The second version was a variant with cheat codes in it. It is called MAMBAC. It was completed in December 1997.
 
@@ -19,3 +19,13 @@ Download your [DOSBox Frontend](https://www.dosbox.com/download.php?main=1), dow
 |A    |Autosearch | The Mamba will automatically search for food
 |D    | Dead end detection | The Mamba will automatically try to avoid to go into a dead end
 |+    | Level Up | Level will go up by 1
+
+## Screenshots
+
+*Screenshot of introduction screen of MAMBAC*
+
+![Screenshot of MAMBAC](images/MAMBAC.png)
+
+*Screenshot of game play of MAMBAS*
+
+![Screenshot of MAMBAS](images/MAMBAS.png)
